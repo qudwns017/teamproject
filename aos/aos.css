@@ -349,7 +349,7 @@ margin: 0 0 0 1%;
 .pccard:nth-child(6){
   grid-column: 5/6;
   grid-row: 2/4;
-  background-image: url('https://lh3.googleusercontent.com/proxy/X7nK7y7RC48lIPF-KgF_keFGBinhC3h7wFXxl-wRksO_bAAQmAUPu0uHc29TY81i5bf49HjfRZfQDucv-fGsAV7tUSLr9zBIqekTafDQnad2jwLNDNoy5PQxgrM3YeXa5h3pHqqj6rfLv08');
+  background-image: url('./imgbox/smitebg.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
